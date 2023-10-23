@@ -1,1 +1,1 @@
-# corso-esempio
+# corso-sistemi-informativi
